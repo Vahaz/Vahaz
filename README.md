@@ -1,6 +1,4 @@
-● 👋 🙟 Hi, I’m @Vahaz. 
-● 🌱 🙟 I’m currently learning Java.
-● 🔨 🙟 Administrator for Hydelia. 
+Hemmmm nothing to see here, sorry!
 
 <!---
 Vahaz/Vahaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
